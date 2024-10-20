@@ -27,8 +27,8 @@ body {
 }
 main {
   margin: auto;
-  min-width: 300px;
-  min-height: 475px;
+  min-width: 350px;
+  min-height: 500px;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
